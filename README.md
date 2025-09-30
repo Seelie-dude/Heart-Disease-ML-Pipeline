@@ -1,7 +1,7 @@
 # 🫀 Heart Disease Prediction & Analysis Project
 
 This project implements a full **machine learning pipeline** on the [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease).  
-It covers **data preprocessing, dimensionality reduction, feature selection, supervised & unsupervised learning, hyperparameter tuning, and deployment** with a Streamlit web app.
+It covers **data preprocessing, dimensionality reduction, feature selection, supervised & unsupervised learning, hyperparameter tuning, and deployment**
 
 ---
 
@@ -61,3 +61,4 @@ Deliverables
 ✔️ Evaluation metrics & visualizations
 ✔️ Exported model (.pkl)
 ✔️ Streamlit UI + Ngrok deployment
+
